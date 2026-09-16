@@ -1,1 +1,1 @@
-# tmp_app
+This is a simple illustration of streamlit (https://streamlit.io/) using the UCI Diabetes dataset https://archive.ics.uci.edu/dataset/34/diabetes. The source code is designed to be self contained. It was successfully tested with python 3.13. 
